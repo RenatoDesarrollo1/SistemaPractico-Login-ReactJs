@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/SistemaPractico-Login-ReactJs/static/css/main.10fb559d.css",
-    "main.js": "/SistemaPractico-Login-ReactJs/static/js/main.4cb92e73.js",
+    "main.css": "/SistemaPractico-Login-ReactJs/static/css/main.5abe9b8d.css",
+    "main.js": "/SistemaPractico-Login-ReactJs/static/js/main.320af75a.js",
     "static/media/bg-login.jpeg": "/SistemaPractico-Login-ReactJs/static/media/bg-login.3fc1b654c98d6f5e67eb.jpeg",
     "index.html": "/SistemaPractico-Login-ReactJs/index.html",
-    "main.10fb559d.css.map": "/SistemaPractico-Login-ReactJs/static/css/main.10fb559d.css.map",
-    "main.4cb92e73.js.map": "/SistemaPractico-Login-ReactJs/static/js/main.4cb92e73.js.map"
+    "main.5abe9b8d.css.map": "/SistemaPractico-Login-ReactJs/static/css/main.5abe9b8d.css.map",
+    "main.320af75a.js.map": "/SistemaPractico-Login-ReactJs/static/js/main.320af75a.js.map"
   },
   "entrypoints": [
-    "static/css/main.10fb559d.css",
-    "static/js/main.4cb92e73.js"
+    "static/css/main.5abe9b8d.css",
+    "static/js/main.320af75a.js"
   ]
 }
