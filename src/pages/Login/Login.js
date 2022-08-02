@@ -36,7 +36,7 @@ export function Login() {
     if(param.user.length > 0 && param.password.length > 0) {
       if(param.user === "admin" && param.password === "admin") {
         setLoginError(false)
-        window.location.href = "./menu"
+        window.location.href = "./SistemaPractico-Login-ReactJs/menu"
       }
       else {
         setLoginError(true);
