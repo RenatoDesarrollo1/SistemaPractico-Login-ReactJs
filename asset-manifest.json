@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SistemaPractico-Login-ReactJs/static/css/main.5abe9b8d.css",
-    "main.js": "/SistemaPractico-Login-ReactJs/static/js/main.29fc2d8b.js",
+    "main.js": "/SistemaPractico-Login-ReactJs/static/js/main.5ead6c24.js",
     "static/media/bg-login.jpeg": "/SistemaPractico-Login-ReactJs/static/media/bg-login.3fc1b654c98d6f5e67eb.jpeg",
     "index.html": "/SistemaPractico-Login-ReactJs/index.html",
     "main.5abe9b8d.css.map": "/SistemaPractico-Login-ReactJs/static/css/main.5abe9b8d.css.map",
-    "main.29fc2d8b.js.map": "/SistemaPractico-Login-ReactJs/static/js/main.29fc2d8b.js.map"
+    "main.5ead6c24.js.map": "/SistemaPractico-Login-ReactJs/static/js/main.5ead6c24.js.map"
   },
   "entrypoints": [
     "static/css/main.5abe9b8d.css",
-    "static/js/main.29fc2d8b.js"
+    "static/js/main.5ead6c24.js"
   ]
 }
