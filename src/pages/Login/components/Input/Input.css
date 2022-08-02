@@ -1,0 +1,9 @@
+.input-container {
+    margin: 5px 0;
+}
+.input-container input[type=text],  .input-container input[type=password]{
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #16a085;
+}
